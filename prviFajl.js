@@ -1,5 +1,4 @@
-var a = 0;
-var b = 2;
-var c = a+b;
-console.log (c, 'rezultati');
+var a = 'text';
+
+console.log (a, 'rezultati');
 console.log ('promene na zivo');
